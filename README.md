@@ -9,6 +9,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ErmiliMohamed1)
 <br>Gmail : mohamedermili5@gmail.com;
 
-### 1st ScreenShoot
+### ScreenShoot
 
 <img src='images/error-page.png'>
